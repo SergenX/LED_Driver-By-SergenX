@@ -1,0 +1,20 @@
+Added Pin To Net: NetName=+12V Pin=J2-4
+Added Pin To Net: NetName=+12V Pin=R2-2
+Added Pin To Net: NetName=+12V Pin=R10-2
+Added Pin To Net: NetName=+12V Pin=R15-2
+Added Member To Class: ClassName=MCU - Peripherals Member=Component Q5 NCE0140K2
+Added Member To Class: ClassName=MCU - Peripherals Member=Component Q6 BC817-40,215
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R1 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R2 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R7 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R8 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R9 4.7k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R10 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R11 1k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R13 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R16 1k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R17 330R
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R18 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R20 4.7k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R21 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R22 4.7k

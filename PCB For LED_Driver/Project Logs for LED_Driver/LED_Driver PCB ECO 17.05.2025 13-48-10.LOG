@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=+12 Pin=J2-1
+Removed Pin From Net: NetName=NetJ2_2 Pin=Q2-2
+Removed Pin From Net: NetName=NetJ2_3 Pin=Q5-2
+Added Pin To Net: NetName=+12 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_3 Pin=Q2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Q5-2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=Q8-2
+Added Net: Name=NetJ2_1
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R3 330R
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R4 1k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R6 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R7 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R8 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R10 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R11 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R13 4.7k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R15 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R16 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R17 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R18 330R
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R20 330R
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R21 10k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R22 4.7k
+Added Member To Class: ClassName=MCU - Peripherals Member=Component R23 4.7k
